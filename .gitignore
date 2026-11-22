@@ -1,0 +1,5 @@
+.env
+.venv/
+mem0_db/
+__pycache__/
+.streamlit/
